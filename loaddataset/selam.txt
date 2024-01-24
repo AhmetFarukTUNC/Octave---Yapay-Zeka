@@ -1,0 +1,12 @@
+# Created by Octave 8.4.0, Wed Jan 24 21:14:45 2024 GMT <unknown@BenimAslanParçasý>
+# name: v
+# type: matrix
+# rows: 5
+# columns: 1
+ 15000
+ 14542
+ 22350
+ 21450
+ 24580
+
+

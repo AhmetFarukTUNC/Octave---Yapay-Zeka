@@ -1,0 +1,5 @@
+# What Is The Data Vissualization?
+
+## Data visualization is the graphical representation of data and information. It involves the creation and study of visual representations of data to help users understand and interpret data more easily and effectively. Data visualization uses various elements such as charts, graphs, maps, and other graphical tools to present complex data sets in a visually appealing and understandable format.
+
+## The primary goal of data visualization is to communicate information clearly and efficiently, allowing users to analyze data, detect patterns, identify trends, and make informed decisions based on the insights gained from the visual representation of data. It is widely used across various fields including business, science, engineering, finance, healthcare, and many others to explore and communicate data-driven insights.
